@@ -1,6 +1,6 @@
   <div align="center">
 <div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVyM2tlM2J2Nm9meXVwMDA0MHJjYjY0d3QyeHZ5aTFvdXhpZ2VkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FEv2evGLfNeET8dMJ/giphy.gif" width="100">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG91a3Zka2x6a3c0ZXp3a2Z5ejhndDZrY25yeDkwN3Y5YTJzc2oxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E136ihXhzuG2OnxKen/giphy.gif" width="100">
 </div>
 <h3 id="hi-there">Bonjour! 👋 </h3>
 <p>My name is <strong>Minhaj</strong> and welcome devss</p>
