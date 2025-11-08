@@ -5,8 +5,7 @@
 <h3 id="hi-there">Bonjour! 👋 </h3>
 <p>My name is <strong>Minhaj</strong> and welcome devss</p>
 <p>
-A smart programmer with deep passion for coding and computers, constantly exploring, learning, and building innovative tech solutions with dedication. Driven by curiosity and creativity, they excel at problem-solving, embrace challenges, and strive to create efficient, impactful software solutions. 
-</p>
+Learner, builder, human in progress. I love new ideas, I chase something..., always the “ah, that works” feeling. Some days messy, some days fun — always me. growing btw....</p>
 <!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"> -->
 <!-- <h3 id="bar_chart-github-stats">:bar_chart: GitHub stats</h3>
 <p> 
