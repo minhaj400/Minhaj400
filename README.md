@@ -5,7 +5,7 @@
 <h3 id="hi-there">Bonjour! 👋 </h3>
 <p>My name is <strong>Minhaj</strong> and welcome devss</p>
 <p>
-Learner, builder, human in progress. I love new ideas, I chase something..., always the “ah, that works” feeling. Some days messy, some days fun — always me. growing btw....</p>
+Learner, builder, human in progress. I love new ideas, “ah, that works” feeling. Some days messy, some days fun 😄</p>
 <!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"> -->
 <!-- <h3 id="bar_chart-github-stats">:bar_chart: GitHub stats</h3>
 <p> 
